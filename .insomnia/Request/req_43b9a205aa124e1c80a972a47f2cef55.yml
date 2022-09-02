@@ -1,0 +1,23 @@
+_id: req_43b9a205aa124e1c80a972a47f2cef55
+type: Request
+parentId: wrk_1ea8db340e1c4f5f8106dcce8afd1086
+modified: 1662082996551
+created: 1662082963939
+url: http://localhost:8080/topicos/1
+name: /topicos/{id}
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJBUEkgZG8gRsOzcnVtIGRhIEFsdXJhIiwic3ViIjoiMiIsImlhdCI6MTY2MjA4Mjk1MiwiZXhwIjoxNjYyMTY5MzUyfQ.m2sx7YEiTwhLke9gPfrzrBo95KZNnYnKWsBnx_jMmQw
+metaSortKey: -1662082963939
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
