@@ -1,0 +1,30 @@
+_id: req_1a3803bd1cf846bfb9fb4a89759d08a9
+type: Request
+parentId: wrk_1ea8db340e1c4f5f8106dcce8afd1086
+modified: 1662082962764
+created: 1662082907950
+url: http://localhost:8080/auth
+name: /auth
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "moderador@email.com",
+    	"senha": "123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ed1cc96c80f84437bea3aec3ec6b6e57
+authentication: {}
+metaSortKey: -1662082907950
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
